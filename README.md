@@ -211,7 +211,7 @@ GET /api/v1/health
 ---
 
 ## Phase 2 
-gi
+
 - [ ] Event Entity
 - [ ] Repository Layer
 - [ ] Event Service
@@ -318,7 +318,7 @@ The objective is to understand **why** each design decision is made rather than 
 
 ## Mohan Sai Pandeti
 
-📧 **Email**
+ **Email**
 
 pandetimohansai@gmail.com
 
@@ -348,6 +348,6 @@ By the end of development, this repository will include:
 
 ###  If you like this project, consider giving it a star!
 
-**More exciting features coming soon... **
+**More exciting features coming soon...**
 
 </div>
